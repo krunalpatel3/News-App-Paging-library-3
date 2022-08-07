@@ -4,6 +4,6 @@ This project show's than how to use paging library 3 to load data from api and d
 
 ## Screenshots:-
 
-<img src="Screenshot/Screenshot_1659883512.png" width="300" height="450" /> <img src="Screenshot/Screenshot_1659883530.png" width="300" height="450" />
-<img src="Screenshot/Screenshot_1659883551.png" width="300" height="450" /> <img src="Screenshot/Screenshot_1659883566.png" width="300" height="450" />
+<img src="Screenshot/Screenshot_1659883512.png" width="250" height="450" /> <img src="Screenshot/Screenshot_1659883530.png" width="250" height="450" />
+<img src="Screenshot/Screenshot_1659883551.png" width="250" height="450" /> <img src="Screenshot/Screenshot_1659883566.png" width="250" height="450" />
 
