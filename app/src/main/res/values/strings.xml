@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="email_id">Email Id</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_successfully">Login Successfully</string>
+
+    <string name="failed_to_login_please_try_again_later">Failed to Login. Please try again later</string>
+
+    <string name="facebook_app_id">1296944270712291</string>
+    <string name="fb_login_protocol_scheme">fb1296944270712291</string>
+    <string name="facebook_client_token">f1bdd60c3db8fee21ba62b605e63fbbd</string>
+    <string name="search_news">Search News</string>
+
+    <string name="dialog_logout_message">Are you sure you want Logout?</string>
+    <string name="dialog_logout_title">Logout</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+
+    <string name="title_holder">Facebook Said Not to Consider Banning Political Ads</string>
+    <string name="desc_holder">The social network has been under intense pressure for allowing misinformation and hate speech to spread on its site.</string>
+    <string name="author">By Sanju S</string>
+
+
+</resources>
